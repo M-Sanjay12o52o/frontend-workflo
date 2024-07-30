@@ -19,6 +19,7 @@ export default async function Navbar() {
                 )}
                 <li><Link href="/server">Server</Link></li>
                 <li><Link href="/client">Client</Link></li>
+                <li><Link href="/dashboard">Dashboard</Link></li>
                 <li><Link href="/extra">Extra</Link></li>
             </ul>
         </nav>
